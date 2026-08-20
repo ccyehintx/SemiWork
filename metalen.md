@@ -1,4 +1,4 @@
-可以。下面這份 README 是按照你目前這個 **RCWA + metallic nanorod + diffraction orders + optical phase + metalens application** 的方向寫的。你可以直接存成 `README.md`。
+
 
 # RCWA Metallic Nanorod Diffraction & Phase Simulator
 
